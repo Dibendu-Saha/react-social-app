@@ -3,7 +3,7 @@ import Page from "./Page";
 
 function About() {
   // useEffect(() => {
-  //   document.title = "About us | ComplexApp";
+  //   document.title = "About us | Socialize";
   //   window.scrollTo(0, 0);
   // }, []);
 
